@@ -157,7 +157,7 @@ weblol      	前端设计
 shandinan   	前端设计&.net 开发
 ericliu     	java programmer
 dachuan     	专业抱小孩的
-ale233      	美工
+ale233      	美工 
 pigtruman   	Web Designer
 Will Shi    	NOT A C++ PROGRAMER
 Owen        	程序
